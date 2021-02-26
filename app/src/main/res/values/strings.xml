@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">Spinner Assignment</string>
+    <string-array name="Country">
+        <item>USA</item>
+        <item>India</item>
+        <item>China</item>
+        <item>UK</item>
+        <item>Japan</item>
+    </string-array>
+    <string-array name="India">
+        <item>Andhra Pradesh</item>
+        <item>Arunachal Pradesh</item>
+        <item>Assam</item>
+        <item>Bihar</item>
+        <item>Chhattisgarh</item>
+        <item>Goa</item>
+    </string-array>
+    <string-array name="USA">
+        <item>California</item>
+        <item>Texas</item>
+        <item>Georgia</item>
+        <item>Florida</item>
+        <item>Alaska</item>
+        <item>Washington</item>
+    </string-array>
+    <string-array name="AndhraPradesh">
+        <item>Vishakapatnam</item>
+        <item>Amaravati</item>
+        <item>Tirupati</item>
+    </string-array>
+    <string-array name="ArunachalPradesh">
+        <item>Bordumsa</item>
+        <item>Bubang</item>
+        <item>Changlang (North and South)</item>
+        <item>Chopelling</item>
+        <item>Deban</item>
+        <item>Dharampur</item>
+        <item>Gandhigram</item>
+    </string-array>
+    <string-array name="Assam">
+        <item>Guwahati</item>
+        <item>Jorhat</item>
+        <item>Dibrugarh</item>
+        <item>Silchar</item>
+        <item>Tezpur</item>
+    </string-array>
+    <string-array name="Bihar">
+        <item>Patna</item>
+        <item>Gaya</item>
+        <item>Muzaffarpur</item>
+        <item>Bihar Sharif</item>
+        <item>Darbhanga</item>
+    </string-array>
+
+
+
+</resources>
